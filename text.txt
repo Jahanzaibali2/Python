@@ -1,0 +1,1 @@
+{"names": {"student1 name": "nnn"}, "section": {"student1 class": "/bin/python3 /home/developer/Desktop/python.prac/regex.py"}}
