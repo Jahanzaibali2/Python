@@ -1,9 +1,9 @@
 import logging 
 
 try:
-    print(10/0)
+    print("DZD" + 10)
 except Exception:
     print("error")
     logging.exception(Exception)
 
-print("continue")
+print("continue haSHIR")
