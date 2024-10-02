@@ -14,7 +14,6 @@ class Patient:
     def getAge(self):
         return self.__age
         
-        
     #SETTERS
     def setName(self, newName):
         self.__name = newName
