@@ -1,1 +1,1 @@
-CREATE TABLE Employees(Emp_name VARCHAR)
+SELECT * FROM emp
